@@ -1,0 +1,8 @@
+{
+  "home": {
+    "welcome": "Bienvenida",
+    "welcome-description": "Esta es la aplicación web repetitiva React-MUI. Espero que te guste. Gracias.",
+    "create-account-button": "Crea una cuenta",
+    "login-account-button": "Ingrese a su cuenta"
+  }
+}

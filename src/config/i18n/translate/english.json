@@ -1,0 +1,8 @@
+{
+  "home": {
+    "welcome": "Welcome",
+    "welcome-description": "This is React-MUI boilerplate web app. Hope you will love it. Thank you.",
+    "create-account-button": "Create an account",
+    "login-account-button": "Login to your account"
+  }
+}
